@@ -1,4 +1,5 @@
-name: 💡 Custom Issue Form description: A custom form with different fields body: 
+name: 💡 Custom Issue Form 
+description: A custom form with different fields body: 
   - type: input 
     id: contact
     attributes: 
